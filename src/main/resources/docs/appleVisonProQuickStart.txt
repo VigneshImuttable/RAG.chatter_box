@@ -1,0 +1,219 @@
+Apple Vision Pro headset: What does it do
+and will it deliver?
+June 7 2023, by Panagiotis Ritsos and Peter Butcher
+
+
+Credit: Apple Inc.
+Apple recently unveiled its Vision Pro headset at the Worldwide
+Developers Conference in California. With it, Apple is venturing into a
+market of head-mounted devices (HMDs)—which are usually just
+displays, but in this case is more of a complete computer attached to
+your head—as well as the worlds of virtual reality (VR), augmented
+1/5
+reality (AR) and mixed reality (MR).
+The new Apple product will fuel the hopes of many working on these
+technologies that they will some day be routinely used by the public, just
+as the iPhone, iPad and Apple Watch helped bring smartphones, tablets
+and wearable tech into mainstream use.
+But what does the Vision Pro actually do, and how much mass appeal
+will it have?
+VR immerses users in an entirely computer-generated world, isolating
+them to a large degree from their physical surroundings. AR
+superimposes computer-generated elements onto the real world while the
+latter remains visible, with the purpose of enhancing the context of our
+physical surroundings.
+A term often used interchangeably with AR is mixed reality, referring to
+a set of immersive technologies including AR, that provide different
+"blends" of physical and virtual worlds. These three technologies are
+often collectively referred to as XR.
+The blending of VR and AR seems to be a key part of Apple's thinking,
+with the Vision Pro allowing users to adjust their level of immersion by
+deciding how much of the real world they can see. This transitioning
+between the two experiences will probably be a trend for future HMDs.
+The physical world is "seen" through an array of 12 cameras located
+behind a ski-goggle-like glass fascia, acting as a lens. When the Vision
+Pro is in VR mode, people approaching you in the real world are
+automatically detected and displayed as they get close.
+A feature called EyeSight also displays the wearer's eyes through the
+glass lens when needed, to enable more natural interaction with people
+2/5
+around them—a challenge for many HMDs.
+In terms of technical specifications, the Vision Pro is impressive. It uses
+a combination of the M2 microchip and a new chip called the R1. M2 is
+running visionOS, which Apple calls its first spatial operating system,
+along with computer vision algorithms and computer graphics
+generation.
+R1 processes information from the cameras, an array of microphones
+and a LiDAR scanner—which uses a laser to measure distances to
+different objects—in order to make the headset aware of its
+surroundings.
+More importantly, the Vision Pro boasts an impressive display system
+with "more pixels than a 4K TV to each eye." Its ability to track where
+the wearer's eyes are looking allows users to interact with graphical
+elements just by looking at them. The headset can receive gesture and
+voice commands and features a form of 360-degree sound called spatial
+audio. The quoted unplugged operating time is two hours.
+Wearable 'ecosystem'
+Packed, in typical Apple fashion, in curved aluminum and glass, the
+headset has an eye-watering price of US$3,499 (£2,819) and represents a
+collection of many premium features. But Apple has a history of
+developing products with increasingly versatile capabilities to sense
+what's going on in their real-world surroundings.
+Apple also focuses on making its devices interoperable—meaning they
+work easily with other Apple devices—forming a wearable "ecosystem."
+This is what really promises to be disruptive about the Vision Pro. It is
+also akin to what had been promised and hoped for by pioneers in the
+idea of wearable computing back in the 1990s.
+
+Combining the headset with the iPhone, which still forms the backbone
+of Apple's ecosystem, and the Apple Watch could help create new uses
+for augmented reality. Likewise, linking the headset to many
+programming tools demonstrates the company's desire to tap into an
+existing community of developers of augmented reality applications.
+Many questions remain, however. For example, will it be able to access
+mixed reality applications via a web browser? What will it be like to use
+from an ergonomic point of view?
+It's also unclear when the Vision Pro be available outside the US or
+whether there will be a non-Pro version—as the "Pro" part of the title
+implies a more "expert," or developer market.
+
+The Vision Pro is a gamble, as XR is often seen as something that
+promises but rarely delivers. Yet, companies such as Apple and those
+that are probably its primary competitors in the XR domain, Meta and
+Microsoft, have the clout to make XR popular for the general public.
+More importantly, devices such as the Vision Pro and its ecosystem, as
+well as its competitors could provide the foundation for developing the
+metaverse. This is an immersive world, facilitated by headsets, that aims
+for social interaction that's more natural than with previous products.
+Skeptics will say that Vision Pro and EyeSight make you appear like a
+scuba diver in your living room. But this could finally be the time to dive
+into the deep waters of XR.
+This article is republished from The Conversation under a Creative
+Commons license. Read the original article.
+Provided by The Conversation
+
+Citation: Apple Vision Pro headset: What does it do and will it deliver? (2023, June 7) retrieved
+29 March 2024 from https://techxplore.com/news/2023-06-apple-vision-pro-headset.html
+This document is subject to copyright. Apart from any fair dealing for the purpose of private
+study or research, no part may be reproduced without the written permission. The content is
+provided for information purposes only.
+
+Technical specification:
+Capacity1
+256GB
+512GB
+1TB
+Display
+23 million pixels
+3D display system
+Micro‑OLED
+7.5‑micron pixel pitch
+92% DCI‑P3
+Supported refresh rates: 90Hz, 96Hz, 100Hz
+Supports playback multiples of 24fps and 30fps for judder‑free video
+Video Mirroring
+Up to 720p AirPlay for mirroring your view in Apple Vision Pro to any AirPlay‑enabled device, including iPhone, iPad, Mac, Apple TV (2nd generation or later), or AirPlay‑enabled smart TV
+
+Chips
+Graphic image of the M2 chip
+8‑core CPU with 4 performance cores and 4 efficiency cores
+10‑core GPU
+16‑core Neural Engine
+16GB unified memory
+Graphic image of the R1 chip
+12‑millisecond photon‑to‑photon latency
+256GB/s memory bandwidth
+Camera
+Stereoscopic 3D main camera system
+Spatial photo and video capture
+18 mm, ƒ/2.00 aperture
+6.5 stereo megapixels
+Sensors
+Two high‑resolution main cameras
+Six world‑facing tracking cameras
+Four eye‑tracking cameras
+TrueDepth camera
+LiDAR Scanner
+Four inertial measurement units (IMUs)
+Flicker sensor
+Ambient light sensor
+Optic ID
+Iris‑based biometric authentication
+Optic ID data is encrypted and accessible only to the Secure Enclave processor
+Secures personal data within apps
+Make purchases from the iTunes Store and App Store
+Audio Technology
+Spatial Audio with dynamic head tracking
+Personalized Spatial Audio and audio ray tracing
+Six‑mic array with directional beamforming
+Supports H2‑to‑H2 ultra‑low‑latency connection to AirPods Pro (2nd generation) with MagSafe Charging Case (USB‑C)
+Audio Playback
+Supported formats include AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus, and Dolby Atmos
+
+Video Playback
+Supported formats include HEVC, MV‑HEVC, H.264, HDR with Dolby Vision, HDR10, and HLG
+
+Battery2
+Up to 2 hours of general use
+Video watching up to 2.5 hours
+Apple Vision Pro can be used while charging the battery
+Connectivity and Wireless
+Wi‑Fi 6 (802.11ax)
+Bluetooth 5.3
+Operating System
+visionOS
+Input
+Hands
+Eyes
+Voice
+Supported Input Accessories
+
+Keyboards
+Trackpads
+Game controllers
+Interpupillary
+Distance (IPD)
+51–75 mm
+Device Weight
+21.2–22.9 ounces (600–650 g)
+
+Weight varies depending on Light Seal and head band configuration. Separate battery weighs 353 g.
+
+Accessibility
+Accessibility features help people with disabilities get the most out of their new Apple Vision Pro. With built‑in support for vision, hearing, mobility, and learning, you can create and do amazing things.
+
+Learn more
+
+Features Include
+
+VoiceOver
+Zoom
+Color Filters
+Hearing Device Support
+Closed Captioning
+Voice Control
+Switch Control
+Dwell Control
+Pointer Control
+Support for Made for iPhone bi‑directional hearing aids
+Support for Made for iPhone switch controllers
+
+Other features includes:
+
+A singular piece of three-dimensionally formed laminated glass flows into an aluminum alloy frame that gently curves to wrap around your face.
+
+An array of advanced cameras and sensors work together to let you see the world clearly, understand your environment, and detect hand input.
+
+Speakers are positioned close to your ears, delivering rich Spatial Audio that seamlessly blends with real-world sounds.
+
+Two head bands are included. The Solo Knit Band provides cushioning, breathability, and stretch, and a Fit Dial lets you adjust Apple Vision Pro to your head. The Dual Loop Band features a pair of adjustable upper and lower straps for a precise fit.
+
+A pair of custom micro‑OLED displays deliver more pixels than a 4K TV to each eye — for stunning clarity.
+
+The Light Seal gently conforms to your face, delivering a precise fit while blocking out stray light.
+
+Press the Digital Crown to bring up the Home View, and turn it to control your level of immersion while using Environments.
+
+Press the top button to take spatial videos and spatial photos in the moment.
+
+The external battery supports up to 2 hours of general use and up to 2.5 hours of video playback.1
